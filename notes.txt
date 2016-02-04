@@ -1,0 +1,7 @@
+:D - grin emoticon
+<3 - heart emoticon
+
+author  has_emoticon    has_na  has_po  hour    day_of_week     likes
+Igue    yes             no      yes     21      tue             ???
+Sagum   yes             yes     yes     10      tue             ???
+
